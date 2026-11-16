@@ -1,0 +1,17 @@
+C:\Users\swath\.gemini\antigravity\scratch\springboot-basic-api\src\main\java\com\example\api\Application.java
+C:\Users\swath\.gemini\antigravity\scratch\springboot-basic-api\src\main\java\com\example\api\controller\PostController.java
+C:\Users\swath\.gemini\antigravity\scratch\springboot-basic-api\src\main\java\com\example\api\controller\ProductController.java
+C:\Users\swath\.gemini\antigravity\scratch\springboot-basic-api\src\main\java\com\example\api\controller\RootController.java
+C:\Users\swath\.gemini\antigravity\scratch\springboot-basic-api\src\main\java\com\example\api\controller\UserController.java
+C:\Users\swath\.gemini\antigravity\scratch\springboot-basic-api\src\main\java\com\example\api\dto\ErrorResponse.java
+C:\Users\swath\.gemini\antigravity\scratch\springboot-basic-api\src\main\java\com\example\api\exception\GlobalExceptionHandler.java
+C:\Users\swath\.gemini\antigravity\scratch\springboot-basic-api\src\main\java\com\example\api\exception\ResourceNotFoundException.java
+C:\Users\swath\.gemini\antigravity\scratch\springboot-basic-api\src\main\java\com\example\api\model\Post.java
+C:\Users\swath\.gemini\antigravity\scratch\springboot-basic-api\src\main\java\com\example\api\model\Product.java
+C:\Users\swath\.gemini\antigravity\scratch\springboot-basic-api\src\main\java\com\example\api\model\User.java
+C:\Users\swath\.gemini\antigravity\scratch\springboot-basic-api\src\main\java\com\example\api\repository\PostRepository.java
+C:\Users\swath\.gemini\antigravity\scratch\springboot-basic-api\src\main\java\com\example\api\repository\ProductRepository.java
+C:\Users\swath\.gemini\antigravity\scratch\springboot-basic-api\src\main\java\com\example\api\repository\UserRepository.java
+C:\Users\swath\.gemini\antigravity\scratch\springboot-basic-api\src\main\java\com\example\api\service\PostService.java
+C:\Users\swath\.gemini\antigravity\scratch\springboot-basic-api\src\main\java\com\example\api\service\ProductService.java
+C:\Users\swath\.gemini\antigravity\scratch\springboot-basic-api\src\main\java\com\example\api\service\UserService.java
