@@ -65,7 +65,7 @@ pipeline {
                                 docker run -d \
                                     --name springboot-crud \
                                     --restart unless-stopped \
-                                    -p 8080:8080 \
+                                    -p 8081:8080 \
                                     $IMAGE_NAME:$IMAGE_TAG
                             "
                     '''
